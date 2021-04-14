@@ -1,4 +1,4 @@
-# Alcolina
+# Alcoolina
 
 Neste repositório estão disponibilizados os scripts em JAVA (Android) da aplicação Alcolina. O aplicativo é responsavel por nos indicar qualcombustivel devemos abastecer, de acordo com calculos já conhecidos e testados com base no consumo médios dos veiculos de medio porte.
 
